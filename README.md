@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my Honours project, focusing on soil biodiversity in sugarcane plantations (plus some cool creative projects on the side)
 - 🌱 I’m currently learning more about R, GitHub, and various laboratory skills. 
 - 🤔 I’m looking for help with R and statistical analyses, for visualization and analysis of biological datasets.
-- 💬 Ask me about insects!
+- 💬 Ask me about lichens and moss!
 - 📫 How to reach me: kmmarw001@myuct.ac.za / arwennevenstar@protonmail.com
 - 😄 Pronouns: she/her
 <!--
